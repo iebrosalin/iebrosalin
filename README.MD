@@ -1,4 +1,5 @@
 Now: инженер-аналитик SOC
+
 Ex:
 - Web-developer
 - Flutter-developrt
