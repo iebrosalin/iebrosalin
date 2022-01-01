@@ -3,7 +3,7 @@ Now: SOC analyst
 Professional interesting:
  - Pentest
  - Forensic
- - preparing for OSCP
+ - Preparing for OSCP
 
 Play on the playgrounds:
  - [Tryhackme](https://tryhackme.com/p/iebrosalin)
