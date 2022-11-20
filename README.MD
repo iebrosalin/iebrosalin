@@ -14,7 +14,7 @@ Play on the playgrounds:
 
 Completed test tasks:
  - [Kasperky analytic](https://docs.google.com/document/d/1KGsZ_6CG520E_g2GE8COEVddPJILe6GgI6qfI6R1_7w/edit?usp=sharing)
- - [Investigation pcap with PT NAD]()
+<!-- - [Investigation pcap with PT NAD]() -->
 
 Ex:
 - Web-developer
