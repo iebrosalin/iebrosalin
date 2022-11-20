@@ -2,6 +2,7 @@ Now: SOC analyst
 
 Professional interesting:
  - Pentest
+ - Detect and response attack
  - Forensic
  - Preparing for OSCP
 
